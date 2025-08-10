@@ -15,8 +15,8 @@ printf ("estado1: %c\n",estado1);
 printf ("codigo1: %s\n" , codigo1);
 printf ("cidade1: %s\n", cidade1);
 printf ("população1: %d\n", população1);
-printf ("Área1: %f km²\n", Área1);
-printf ("PIB1: %f bilhões de reais\n", PIB1);
+printf ("Área1: %.2fkm²\n", Área1);
+printf ("PIB1: %.2f bilhões de reais\n", PIB1);
 printf ("Pontos turisticos1: %d\n", Pontos1);
 printf ("\n");
 
@@ -32,8 +32,8 @@ printf ("estado2: %c\n", estado2);
 printf ("codigo2: %s\n", codigo2);
 printf ("cidade2: %s\n", cidade2);
 printf ("população2: %d\n", população2);
-printf ("Área2: %f km²\n", Área2);
-printf ("PIB2: %f bilhões de reais\n", PIB2);
+printf ("Área2: %.2fkm²\n", Área2);
+printf ("PIB2: %.2f bilhões de reais\n", PIB2);
 printf ("Pontos turisticos2: %d\n", Pontos2);
 
 
