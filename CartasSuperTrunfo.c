@@ -2,7 +2,7 @@
 
 int main(){
 printf ("Desafio das cartas!\n");
-
+printf ("\n");
 printf ("Carta 1\n");
 char estado1='A';
 char codigo1[20]= "A01";
@@ -28,3 +28,21 @@ int população2= 6748000;
 float Área2= 1200.25;
 float PIB2= 300.50;
 int Pontos2=30;
+printf ("estado2: %c\n", estado2);
+printf ("codigo2: %s\n", codigo2);
+printf ("cidade2: %s\n", cidade2);
+printf ("população2: %d\n", população2);
+printf ("Área2: %f\n", Área2);
+printf ("PIB2: %f\n", PIB2);
+printf ("Pontos turisticos2: %d\n", Pontos2);
+
+
+
+
+
+
+
+
+
+
+}
